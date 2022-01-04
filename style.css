@@ -76,3 +76,50 @@ body{
     border-radius: 10px;
 }
 
+.last-area{
+    padding-bottom: 80px;
+    margin-top: 50px;
+}
+
+.last-flex{
+    display: flex;
+}
+
+.developer{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding:  20px;
+    border-radius: 15px;
+    
+}
+
+.list-title h1{
+      font-size: 50px;
+}
+.developer h5{
+    color: orange;
+    font-size: 25px;
+}
+
+.developer h1{
+    font-size: 40px;
+}
+
+
+#web-border{
+    border-image: linear-gradient(blue,cyan );
+    border-image-slice: 1;
+    border-left: 7px solid;
+}
+
+#baby-border{
+    border-image: linear-gradient(orange,red );
+    border-image-slice: 1;
+    border-left: 7px solid;
+}
+
+footer{
+    text-align: center;
+}
