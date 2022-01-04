@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+}
+
+.header-area{
+    
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+.header-titel{
+    padding-left: 70px;
+}
+.span{
+    color: orange;
+}
+
+.header-titel h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+}
+.header-titel h4{
+    font-size: 25px;
+}
+.header-titel p{
+    font-size: 20px;
+}
+.header-titel a{
+    text-decoration: none;
+    background-image: linear-gradient(orange ,red);
+    padding: 10px 22px;
+    border-radius: 10px;
+}
+
+.header-img {
+    width: 100%;
+}
+.header-img img{
+    width: 99%;
+}
+
+                    /* ===================
+                    About area 
+                    ==================== */
+.about-area{
+    padding-top: 100px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}     
+
+.about-flex{
+    display: flex;
+}
+
+.about-images{
+    width: 100%;
+}
+.about-images img{
+    width: 90%;
+}
+
+.about-text{
+    padding-right: 100px;
+    padding-top: 15px;
+}
+.about-text h1{
+    font-size: 50px;
+}
+
+.about-text a{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
